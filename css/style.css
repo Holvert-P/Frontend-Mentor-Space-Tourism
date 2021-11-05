@@ -220,48 +220,50 @@
     
     .header__info {
         text-align: center;
-        margin-top: 20px;
+        margin-top: 80px;
     }
     
     .header__info h2 {
         position: absolute;
-        top: 5%;
+        top: 15%;
         left: 50%;
         transform: translate(-50%, -50%);
-        font-size: 1em;
+        font-size: .9em;
         color: rgb(170, 167, 167);
     }
     
     .header__info span {
-        margin-top: 30px;
-        font-size: 1.2em;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        font-size: 1em;
         color: rgb(170, 167, 167);
     }
     
     #carrusel {
         position: absolute;
-        bottom: 280px;
+        bottom: 190px;
     }
     
     .header__info h3 {
-        font-size: 1.6em;
+        font-size: 1.4em;
         color: rgb(236, 234, 234);
-        margin-top: 60px;
+        margin-top: 80px;
     }
     
     .header__info p {
         margin-top: 20px;
-        font-size: 1.3em;
+        font-size: 1em;
         color: rgb(170, 167, 167);
     }
     
     .header__picture img {
-        height: 250px;
+        height: 200px;
     }
     /* Carrusel */
     
     .btn__carrusel {
-        margin-top: 10px;
         background-color: rgb(170, 167, 167);
         width: 16px;
         height: 16px;

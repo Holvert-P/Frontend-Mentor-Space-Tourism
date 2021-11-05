@@ -180,7 +180,7 @@
     }
     
     .header__rigth span {
-        margin-top: 120px;
+        margin-top: 60px;
         font-size: 1.2em;
     }
     
@@ -198,7 +198,7 @@
         background-color: #fff;
         bottom: 50%;
         left: 50%;
-        transform: translate(-50%, -30%);
+        transform: translate(-50%, -20%);
         bottom: 0;
         color: rgb(29, 28, 28);
         text-align: center;
